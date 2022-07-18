@@ -1,0 +1,52 @@
+body{
+    font-size: 16px;
+    padding-top: 50px;
+}
+
+.intro{
+  padding-top: 50px;
+  padding-bottom: 20px;
+}
+
+.lpad10{
+  padding-left: 10px;
+}
+
+.bpad10{
+  padding-bottom: 6px;
+}
+
+.lpad7{
+  padding-left: 7%;
+}
+
+.tpad80{
+  padding-top: 10px;
+  padding-left: 30px;
+}
+
+.lpad50{
+  padding-left: 50px;
+}
+
+.hfront{
+  font-family:"Microsoft YaHei UI", "Microsoft YaHei", "Arial", "Verdana", "Tahoma";;
+  border-bottom: 1px solid #aaaaaa;
+  font-weight: 500;
+  color: #224b8d;
+}
+
+.textEn{
+  font-family: "Georgia", "serif";
+}
+
+.footer {
+  padding: 10px 0;
+  color: #999;
+  text-align: center;
+  background-color: #f9f9f9;
+  border-top: 1px solid #e5e5e5;
+}
+.footer p:last-child {
+  margin-bottom: 0;
+}
